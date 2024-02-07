@@ -81,8 +81,34 @@ body {
     color: whitesmoke;
     padding-inline: 10px;
 }
-
+.footer i:hover{
+    color: orange;
+}
 .footer p{
     color:whitesmoke;
     padding: 10px 0;
+}
+
+
+.about {
+    padding-block: 125px;
+    color: rgb(208, 224, 239);
+}
+
+.about h1{
+    font-size: 50px;
+    padding: 20px 0px;
+}
+.about h3{
+    font-size: 20px;
+    color: aquamarine;
+    /* padding-bottom: 20px; */
+}
+.about p{
+
+    color: rgb(127, 178, 223);
+}
+
+.skills .container h1 {
+    color: white;
 }
